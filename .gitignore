@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+invoice_env/
+dist/
+build/
+*.spec
+*.log
